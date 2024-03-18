@@ -1,6 +1,7 @@
 local Book Store
 
 REST API in SpringBoot
+ H2 Embedded database
 
  Integrated Swagger UI for API testing
  
