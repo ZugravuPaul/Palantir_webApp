@@ -1,4 +1,4 @@
-local Book Store
+local ServerHosting webApp
 
 REST API in SpringBoot
 
